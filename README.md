@@ -52,7 +52,6 @@ Once the application is running, The home page will appear as below.
 # Under graduate Recommendations
 
 ![Home Page](/images/home.png?raw=true "Optional Title")
-
 2. Once we click on the Undergraduate University button , we will be redirected to Under Graduate recommendations page as below.
 ![Undergraduate Page](/images/ug.png?raw=true "Optional Title")
 
