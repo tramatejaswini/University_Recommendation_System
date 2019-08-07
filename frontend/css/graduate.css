@@ -1,0 +1,50 @@
+body {
+	padding-top: 40px;
+	padding-bottom: 40px;
+	background-image: url("../images/University.gif");
+	background-repeat: repeat-y;
+	background-position: center;
+}
+
+div#success{
+	display: none;
+}
+
+.list-group{
+	color: white;
+	border-color: white;
+	padding: 5px;
+}
+.alert{
+	margin-bottom: 0px;
+}
+
+.form-signin {
+	max-width: 330px;
+	padding: 15px;
+	margin: 0 auto;
+}
+.form-signin .form-signin-heading,
+.form-signint .checkbox {
+	margin-bottom: 10px;
+}
+.form-signin .checkbox {
+	font-weight: normal;
+}
+.form-signin .form-control {
+	position: relative;
+	height: auto;
+	-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+			box-sizing: border-box;
+	padding: 10px;
+	font-size: 16px;
+}
+
+
+
+.form-signin {
+	margin-bottom: -1px;
+	border-bottom-right-radius: 0;
+	border-bottom-left-radius: 0;
+}
