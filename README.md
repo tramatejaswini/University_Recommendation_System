@@ -48,7 +48,3 @@ The Web aplication is created using python Flask and Bootstrap framework
 
 Once the application is running, The home page will appear as below.
 
-
-
-
-
