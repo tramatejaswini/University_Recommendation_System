@@ -11,6 +11,7 @@ The first step in building any recommendation system is the identification of th
 Here I have used Knowledge based recommendation System where User inputs are taken into account and compare with the training data.
 
 For Graduate University Recommendation I have used Case based knowledge recommendation as it will take the User inputs and compare with trained data.
+
 For Undergraduate Recommendation System, I have used Constraint based Knowledge recommendation system where user inputs taken into account as constraints and based on the constraints we will compare with trained data.
 
 # Models:
