@@ -34,12 +34,12 @@ Setup:
 1. Download the entire repository
 2. go into the project folder and into  webscrape/csv folder , Unzip all the zipped files into csv folder(I have uploaded zipped files as the github is not accepting the files which are more than 50 MB) 
 3. run npm install
-4. cd Backend
+4. cd server
 5. python server.py
 6. run the application in http://localhost:5000
 
 If you want to check the web scraping code 
-1. cd webscrape 
+1. cd WebScraped_data 
 2. Ipython notebook webscrape.ipynb
 
 Web Application:
@@ -48,3 +48,4 @@ The Web aplication is created using python Flask and Bootstrap framework
 
 Once the application is running, The home page will appear as below.
 
+![Alt text](/images/.jpg?raw=true "Optional Title")
