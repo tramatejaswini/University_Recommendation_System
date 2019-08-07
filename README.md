@@ -48,4 +48,4 @@ The Web aplication is created using python Flask and Bootstrap framework
 
 Once the application is running, The home page will appear as below.
 
-![Alt text](/images/.jpg?raw=true "Optional Title")
+![Home Page](/images/home.png?raw=true "Optional Title")
