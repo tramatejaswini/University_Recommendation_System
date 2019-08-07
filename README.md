@@ -48,4 +48,21 @@ The Web aplication is created using python Flask and Bootstrap framework
 
 Once the application is running, The home page will appear as below.
 
+# Under graduate Recommendations
+
 ![Home Page](/images/home.png?raw=true "Optional Title")
+
+2. Once we click on the Undergraduate University button , we will be redirected to Under Graduate recommendations page as below.
+![Undergraduate Page](/images/ug.png?raw=true "Optional Title")
+
+3. Here we need to provide the SAT Score and Maximum tution fees and click on submit, then we will be redirected to recommendations page.
+![Under Graduate Recommendations Page](/images/ug_recommendations.png?raw=true "Optional Title")
+
+# Graduate Recommendations:
+
+1. Click on the graduate Universities from the top Nav bar, then we will be redirected to graduate page
+![Graduate Page](/images/grad.png?raw=true "Optional Title")
+
+2. We need to provide Gre scores and cgpa of Under graduation , then click on Submit
+![Graduate Recommendations Page](/images/graduate_recommendations.png?raw=true "Optional Title")
+
