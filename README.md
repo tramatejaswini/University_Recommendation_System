@@ -1,4 +1,4 @@
-# University_Recommendation_System
+# University Recommendation System
 
 
 ## Background & Objectives of Project:
