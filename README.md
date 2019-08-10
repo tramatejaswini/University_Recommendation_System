@@ -1,23 +1,23 @@
 # University_Recommendation_System
 
 
-# Background & Objectives of Project:
+## Background & Objectives of Project:
 For an aspiring student who wants to apply for higher studies in other countries, university selection process is a challenging task as lot of different criteria need to considered during application process based on individual’s requirement. This problem can be addressed by modeling a recommender system based on various classification algorithms. In this project based on the student dataset and user profile, a list of 10 best universities will be suggested such that it maximizes the chances of a student getting admission into those universities.
 
-# DataSet:
+## DataSet:
 The first step in building any recommendation system is the identification of the data set. So, the graduate student data was scraped from www.thegradcafe.com and the Undergraduate student data was scraped from https://collegescorecard.ed.gov/data/. About 271807 rows of raw student data was obtained as a result of web scraping, which is being processed to use as final dataset.
 
-# Analysis & Methodology:
+## Analysis & Methodology:
 Here I have used Knowledge based recommendation System where User inputs are taken into account and compare with the training data.
 
 For Graduate University Recommendation I have used Case based knowledge recommendation as it will take the User inputs and compare with trained data.
 
 For Undergraduate Recommendation System, I have used Constraint based Knowledge recommendation system where user inputs taken into account as constraints and based on the constraints we will compare with trained data.
 
-# Models:
+## Models:
 I used two different models like K-Nearest Neighbors and Feature weighted algorithms.
 
-# K Nearest Neighbor: 
+## K Nearest Neighbor: 
 In KNN, the trained data is compared with test data and distances are calculated using Euclidean distance. It then classifies an instance by finding its nearest neighbors and recommend the top n nearest neighbor universities. Algorithm is stated as below.
 
 1. Initialize the value of k
@@ -43,7 +43,7 @@ If you want to check the web scraping code
 1. cd WebScraped_data 
 2. Ipython notebook webscrape.ipynb
 
-Web Application:
+## Web Application:
 
 The Web aplication is created using python Flask and Bootstrap framework
 
@@ -52,7 +52,7 @@ Once the application is running, The home page will appear as below.
 ## Youtube link for the Web application Demo: 
 https://youtu.be/Mq8-DqmLO-Y
 
-# Under graduate Recommendations
+## Under graduate Recommendations
 
 ![Home Page](/images/home.png?raw=true "Optional Title")
 2. Once we click on the Undergraduate University button , we will be redirected to Under Graduate recommendations page as below.
@@ -61,7 +61,7 @@ https://youtu.be/Mq8-DqmLO-Y
 3. Here we need to provide the SAT Score and Maximum tution fees and click on submit, then we will be redirected to recommendations page.
 ![Under Graduate Recommendations Page](/images/ug_recommendations.png?raw=true "Optional Title")
 
-# Graduate Recommendations:
+## Graduate Recommendations:
 
 1. Click on the graduate Universities from the top Nav bar, then we will be redirected to graduate page
 ![Graduate Page](/images/grad.png?raw=true "Optional Title")
